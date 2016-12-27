@@ -89,7 +89,7 @@ export const reactThumbCenteringContainer = {
   position: 'absolute',
   height: '100%',
   top: 0,
-  left: 0,
+  left: '2px',
   display: 'flex',
   flex: 1,
   alignSelf: 'stretch',
