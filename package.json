@@ -50,6 +50,7 @@
     "eslint-plugin-jsx-a11y": "^1.5.3",
     "eslint-plugin-react": "^5.2.2",
     "jest-cli": "^13.0.0",
+    "prop-types": "^15.6.2",
     "react": "^15.3.1",
     "react-addons-css-transition-group": "^15.1.0",
     "react-addons-perf": "^15.1.0",
@@ -62,6 +63,6 @@
     "react": ">=0.13.2 || ^0.14 || ^15.0.0"
   },
   "dependencies": {
-    "react-motion": "^0.4.4"
+    "react-motion": "^0.5.2"
   }
 }
